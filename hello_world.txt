@@ -1,1 +1,6 @@
 Hello, everybody! I am gaining the courage to start again as I go back from the very basics so I can learn how to do programming and code without the help of AI.
+
+Day 1 (October 03, 2026, Saturday 00:26):
+- Learn what is Git
+- Discussed to me the different version controls
+- Now reviewing the notes.
